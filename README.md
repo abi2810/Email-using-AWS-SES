@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I have published a detailed blog about how to integrate AWS SES in rails application.
+Refer here: https://codeburst.io/four-different-scripts-to-send-email-using-aws-ses-simple-email-service-part-1-72860ed9f466
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
